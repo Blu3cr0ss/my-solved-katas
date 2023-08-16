@@ -1,3 +1,4 @@
 ./.*         // every file/folder starting with . (aka hidden file)
 ./test
 ./out
+./my-solved-katas.iml
